@@ -1,5 +1,5 @@
 html {
-    background: tan;
+    background: bisque;
     text-align:center;
 
 }
@@ -13,10 +13,14 @@ main {
 img {
     width:300px; 
     height:300px;
-    
+
 }
 #testP {
     color: green;
+    margin: auto;
+    text-align: left;
+    width: 50%;
+    padding: 8px;
 
 }
 .funParagraph {
